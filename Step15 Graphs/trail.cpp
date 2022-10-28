@@ -13,6 +13,13 @@ void addEdge(vector<int>adj[], int u, int v){
     adj[u].pu
 }
 
+/*
+git init
+git add .
+git commit -m "<message>"
+git push origin main
+*/
+
 int main()
 {
     ios_base::sync_with_stdio(false);
